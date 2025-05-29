@@ -1,0 +1,15 @@
+.home-container {
+  text-align: center;
+  padding: 50px;
+  font-family: Arial;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 16px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
