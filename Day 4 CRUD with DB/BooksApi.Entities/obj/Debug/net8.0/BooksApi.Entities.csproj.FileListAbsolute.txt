@@ -1,0 +1,14 @@
+D:\Dot net\Extra\BooksApi\BooksApi.Entities\bin\Debug\net8.0\BooksApi.Entities.deps.json
+D:\Dot net\Extra\BooksApi\BooksApi.Entities\bin\Debug\net8.0\BooksApi.Entities.runtimeconfig.json
+D:\Dot net\Extra\BooksApi\BooksApi.Entities\bin\Debug\net8.0\BooksApi.Entities.dll
+D:\Dot net\Extra\BooksApi\BooksApi.Entities\bin\Debug\net8.0\BooksApi.Entities.pdb
+D:\Dot net\Extra\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.csproj.AssemblyReference.cache
+D:\Dot net\Extra\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot net\Extra\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.AssemblyInfoInputs.cache
+D:\Dot net\Extra\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.AssemblyInfo.cs
+D:\Dot net\Extra\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.csproj.CoreCompileInputs.cache
+D:\Dot net\Extra\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.dll
+D:\Dot net\Extra\BooksApi\BooksApi.Entities\obj\Debug\net8.0\refint\BooksApi.Entities.dll
+D:\Dot net\Extra\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.pdb
+D:\Dot net\Extra\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.genruntimeconfig.cache
+D:\Dot net\Extra\BooksApi\BooksApi.Entities\obj\Debug\net8.0\ref\BooksApi.Entities.dll
