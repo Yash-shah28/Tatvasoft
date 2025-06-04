@@ -1,0 +1,14 @@
+D:\Dot net\Mission\Mission.Entity\bin\Debug\net8.0\Mission.Entity.deps.json
+D:\Dot net\Mission\Mission.Entity\bin\Debug\net8.0\Mission.Entity.runtimeconfig.json
+D:\Dot net\Mission\Mission.Entity\bin\Debug\net8.0\Mission.Entity.dll
+D:\Dot net\Mission\Mission.Entity\bin\Debug\net8.0\Mission.Entity.pdb
+D:\Dot net\Mission\Mission.Entity\obj\Debug\net8.0\Mission.Entity.csproj.AssemblyReference.cache
+D:\Dot net\Mission\Mission.Entity\obj\Debug\net8.0\Mission.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot net\Mission\Mission.Entity\obj\Debug\net8.0\Mission.Entity.AssemblyInfoInputs.cache
+D:\Dot net\Mission\Mission.Entity\obj\Debug\net8.0\Mission.Entity.AssemblyInfo.cs
+D:\Dot net\Mission\Mission.Entity\obj\Debug\net8.0\Mission.Entity.csproj.CoreCompileInputs.cache
+D:\Dot net\Mission\Mission.Entity\obj\Debug\net8.0\Mission.Entity.dll
+D:\Dot net\Mission\Mission.Entity\obj\Debug\net8.0\refint\Mission.Entity.dll
+D:\Dot net\Mission\Mission.Entity\obj\Debug\net8.0\Mission.Entity.pdb
+D:\Dot net\Mission\Mission.Entity\obj\Debug\net8.0\Mission.Entity.genruntimeconfig.cache
+D:\Dot net\Mission\Mission.Entity\obj\Debug\net8.0\ref\Mission.Entity.dll
