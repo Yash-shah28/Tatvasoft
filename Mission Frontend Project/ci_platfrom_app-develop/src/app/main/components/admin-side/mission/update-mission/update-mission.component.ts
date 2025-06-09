@@ -202,7 +202,6 @@ export class UpdateMissionComponent implements OnInit, OnDestroy {
       return this._toast.error({ detail: "ERROR", summary: "Maximum 6 images can be added.", duration: APP_CONFIG.toastDuration })
     }
     if (files) {
-      this.formData = new FormData()
       for (const file of files) {
         const reader = new FileReader()
         reader.onload = (e: any) => {
@@ -221,12 +220,13 @@ export class UpdateMissionComponent implements OnInit, OnDestroy {
   async onSubmit() {
     this.formValid = true
     const value = this.editMissionForm.value
-    let updateImageUrl = ""
+    let updateImageUrl : any [] = []
     var SkillLists = Array.isArray(value.missionSkillId) ? value.missionSkillId.join(",") : ""
     value.missionSkillId = SkillLists
 
     if (this.editMissionForm.valid) {
       if (this.isFileUpload) {
+        console.log(this.formData);
         await this._commonService
           .uploadImage(this.formData)
           .pipe()
@@ -241,7 +241,8 @@ export class UpdateMissionComponent implements OnInit, OnDestroy {
           )
       }
       if (this.isFileUpload) {
-        value.missionImages = updateImageUrl
+        let imageList = updateImageUrl.map(e => e.replace(/\s/g, "")).join(",");
+        value.missionImages = imageList;
       } else {
         value.missionImages = this.editData.missionImages
       }

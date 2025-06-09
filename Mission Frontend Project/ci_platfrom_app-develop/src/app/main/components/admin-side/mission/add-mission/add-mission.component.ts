@@ -134,7 +134,7 @@ export class AddMissionComponent implements OnInit, OnDestroy {
       return this._toast.error({ detail: "ERROR", summary: "Maximum 6 images can be added.", duration: APP_CONFIG.toastDuration });
     }
     if (files) {
-      this.formData = new FormData();
+      // this.formData = new FormData();
       for (const file of files) {
         const reader = new FileReader();
         reader.onload = (e: any) => {
@@ -146,6 +146,7 @@ export class AddMissionComponent implements OnInit, OnDestroy {
         this.formData.append('file', files[i]);
         this.formData.append('moduleName', 'Mission');
       }
+      console.log(this.formData)
     }
   }
 
@@ -156,6 +157,7 @@ export class AddMissionComponent implements OnInit, OnDestroy {
     value.missionSkillId = Array.isArray(value.missionSkillId) ? value.missionSkillId.join(',') : value.missionSkillId;
     if (this.addMissionForm.valid) {
       if (this.imageListArray.length > 0) {
+        console.log(this.formData);
         await this._commonService.uploadImage(this.formData).pipe().toPromise().then((res: any) => {
           if (res.success) {
             imageUrl = res.data;
