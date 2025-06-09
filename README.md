@@ -1,59 +1,74 @@
-# Tatvasoft
+# Tatvasoft Internship Progress
+
 ## Day 1: Introduction to PostgreSQL
-• Learn basics of SQL, set up PostgreSQL database, and Database Schema CI platform.
-• Hands-on: Able to create, insert, Update, Delete and sub-query data in PostgreSQL.
+- Learned basics of SQL.
+- Set up PostgreSQL database and Database Schema CI platform.
+- **Hands-on:** Created, inserted, updated, deleted, and performed sub-queries in PostgreSQL.
+
 ## Day 2: Introduction to Angular
-• Explore Angular overview, build a basic application, and integrate basic Angular 
-functionalities.
-• Hands-on: Create a simple Angular application with forms and components.
-## Day 3: Introduction to .NET 
-• Introduction to .NET and web API. Understand Swagger. 
-• Understand N-tier Repository pattern folder structure and Entity Framework (EF).
-• Hands-on: Familiarize with .NET project structure and EF.
-## Day 4: .NET with Code First approach, LINQ, and Login Page
-• Understanding of LINQ.
-• Understanding of Code First Approach.
-• Hands-on: Build a login API and understand how to write LINQ queries with Code First 
-Approach.
-## Day 5: Understand Authentication and Authorization
-• Explore authentication and authorization concepts and implementation in the project.
-• Hands-on: Understand and implement project authorization (Virtual Community 
-Support).
-## Day 6: Role based Authorization (Admin and User roles)
-• Hands on authentication concepts, Role-Based Access Control, and Access Control 
-Lists (ACLs).
-• Hands-on: Login Page. Learned and implemented role-based access control.
+- Explored Angular overview.
+- Built a basic Angular application.
+- Integrated basic Angular functionalities.
+- **Hands-on:** Created a simple Angular application with forms and components.
+
+## Day 3: Introduction to .NET
+- Introduction to .NET and Web API.
+- Understood Swagger.
+- Learned N-tier Repository pattern, folder structure, and Entity Framework (EF).
+- **Hands-on:** Familiarized with .NET project structure and EF.
+
+## Day 4: .NET with Code First Approach, LINQ, and Login Page
+- Understood LINQ.
+- Understood Code First Approach.
+- **Hands-on:** Built a login API and wrote LINQ queries using Code First Approach.
+
+## Day 5: Understanding Authentication and Authorization
+- Explored authentication and authorization concepts.
+- Implemented authentication and authorization in the project (Virtual Community Support).
+- **Hands-on:** Implemented project authorization.
+
+## Day 6: Role-Based Authorization (Admin and User Roles)
+- Learned authentication concepts.
+- Implemented Role-Based Access Control and Access Control Lists (ACLs).
+- **Hands-on:** Built a login page and implemented role-based access control.
+
 ## Day 7: User Retrieval
-• Data retrieval using joins in the LINQ Query, Sorting, filtering and paging
-• Hands-on: Data retrieval, data filtration, insertion, update, and deletion
+- Retrieved data using joins in LINQ queries.
+- Implemented sorting, filtering, and paging.
+- **Hands-on:** Performed data retrieval, filtration, insertion, update, and deletion.
+
 ## Day 8: User CRUD
-• Begin CRUD operations on the mission table (Retrieve and Insert).
-• Continue CRUD operations on mission records (Update and Delete).
-• Hands-on: Insertion, update, and deletion.
+- Began CRUD operations on the Mission table (Retrieve and Insert).
+- Continued CRUD operations on mission records (Update and Delete).
+- **Hands-on:** Performed insertion, update, and deletion.
+
 ## Day 9: Mission CRUD and Theme CRUD
-• Begin CRUD operations on the mission theme table (Retrieve and Insert). 
-• Continue CRUD operations on mission theme records (Update and Delete).
-• Hands-on: Data retrieval, data filtration, insertion, update, and deletion.
+- Began CRUD operations on the Mission Theme table (Retrieve and Insert).
+- Continued CRUD operations on Mission Theme records (Update and Delete).
+- **Hands-on:** Performed data retrieval, filtration, insertion, update, and deletion.
+
 ## Day 10: Mission Skill CRUD
-• Begin CRUD operations on the mission Skill table (Retrieve and Insert).
-• Continued CRUD operations on mission Skill records (Update and Delete).
-• Hands-on: Data retrieval, data filtration, insertion, update, and deletion
-## Day 11: Mission Listing User Side 
-• Retrieve and display mission records from the table.
-• Hands-on: To display mission data on the user side.
-## Day 12: Mission Apply, Mission Application CRUD (Apply 
-mission List through user) 
-• Develop an API to facilitate mission applications.
-• Complete CRUD operations on mission application records.
-• Create search API for mission applications.
-• Hands-on: Implement a few functionalities to apply for missions.
- Retrieval of applied missions, data filtration, insertion, and deletion
+- Began CRUD operations on the Mission Skill table (Retrieve and Insert).
+- Continued CRUD operations on Mission Skill records (Update and Delete).
+- **Hands-on:** Performed data retrieval, filtration, insertion, update, and deletion.
+
+## Day 11: Mission Listing (User Side)
+- Retrieved and displayed mission records from the table.
+- **Hands-on:** Displayed mission data on the user side.
+
+## Day 12: Mission Apply & Mission Application CRUD (Apply Mission List through User)
+- Developed an API to facilitate mission applications.
+- Completed CRUD operations on mission application records.
+- Created a search API for mission applications.
+- **Hands-on:** Implemented functionalities to apply for missions, retrieve applied missions, and perform data filtration, insertion, and deletion.
+
 ## Day 13: My Profile Page and Deployment
-• My Profile Page
-• Explore configuring deployment environments and strategies.
-• Hands-on: Create My Profile Page and Prepare for project deployment using various 
-strategies.
+- Developed the My Profile Page.
+- Explored configuring deployment environments and strategies.
+- **Hands-on:** Created My Profile Page and prepared the project for deployment using various strategies.
+
 ## Day 14: Discussion
+
 ## Day 15: AWS Session
-• AWS services and deployment
-• Hands-on: Expand knowledge to include AWS services and deployment
+- Explored AWS services and deployment.
+- **Hands-on:** Expanded knowledge to include AWS services and deployment.
